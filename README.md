@@ -1,5 +1,7 @@
 # Base64
 
+Link com explicação -> https://www.youtube.com/watch?v=ekN2BoDonKY
+
 ## O que é?
 Base64 é um algoritmo de codificação que permite transformar qualquer caracter em um alfabeto que consiste de letras do alfabeto latino, números, + e /. Graças a ele, você pode converter caracteres chineses, emojis e até mesmo imagens em uma string legível, que pode ser salva ou transferida para qualquer lugar.
 
